@@ -5,7 +5,7 @@ include_once 'inc/funciones/funciones.php';
 
 
     <div class="contenedor-formulario">
-        <h1>UpTask <span>Crear Cuenta</span></h1>
+        <h1>Seguimiento Tareas <span>Crear Cuenta</span></h1>
         <form id="formulario" class=" caja-login" method="post">
             <div class="campo">
                 <label for="usuario">Usuario: </label>

@@ -24,7 +24,7 @@ if(isset($_GET['cerrar_sesion'])) {
 
 
     <div class="contenedor-formulario">
-        <h1>UpTask</h1>
+        <h1>Seguimiento Tareas</h1>
         <form id="formulario" class="caja-login" method="post">
             <div class="campo">
                 <label for="usuario">Usuario: </label>
